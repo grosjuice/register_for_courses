@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="client_fx" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.client_fx.GUILauncher" />
+    <module name="client_fx" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
